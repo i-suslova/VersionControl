@@ -117,3 +117,11 @@ git checkout -b <название_ветки>
    ```
 
 ---
+## 4. Полезные ресурсы
+
+- [Официальная документация Git](https://git-scm.com/doc)
+- [Введение в Git от GitHub](https://docs.github.com/en/get-started)
+- [Интерактивное обучение Git](https://learngitbranching.js.org/)
+
+---
+
